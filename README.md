@@ -1,4 +1,4 @@
-# Cart-App
+# Flutter-Cart-App
 
 A new Flutter application.
 
